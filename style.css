@@ -1,0 +1,11 @@
+html, body {
+        margin: 0;
+        padding: 0;
+}
+
+
+.bottom {
+        background-color: rgb(176, 241, 241);
+        height: 2000px;
+        width: 0%;
+}
